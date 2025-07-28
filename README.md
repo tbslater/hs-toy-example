@@ -24,3 +24,5 @@ I would like to acknowledge Archbold et al. and Palmer and Tian for inspiring my
 
 -   <https://github.com/nathangriffiths/CVD-Agent-Based-Model.git>
 -   <https://doi.org/10.1080/17477778.2021.1992312>
+
+Perplexity AI was additionally used for debugging code and improving efficiency.
